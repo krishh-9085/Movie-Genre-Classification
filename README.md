@@ -1,2 +1,3 @@
-# CODSOFT PROJECTS
-A CODESOFT is a IT company that provides internship in various Positions among them i am currently doing Machine Learning(ML) internship and they believe in Practical knowledge.
+##Movie Genre Classification Project
+Overview
+This project focuses on developing a machine learning model for classifying movie genres based on movie plot summaries. By using natural language processing techniques and machine learning algorithms, the goal is to predict the genre(s) of a movie based on its plot summary text.
